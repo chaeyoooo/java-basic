@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="735cd62b-a02a-4285-84d8-60a374120264" name="변경" comment="first innit">
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/Student.java" afterDir="false" />
+    <list default="true" id="735cd62b-a02a-4285-84d8-60a374120264" name="변경" comment="class">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReviewMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReviewMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ex/ProductOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ex/ProductOrderMain1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,9 @@
     "accountId": "c42c5aa6-827a-4299-85f2-dc54ef2c40b2"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -52,17 +55,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "애플리케이션.ClassStart1.executor": "Run",
     "애플리케이션.ClassStart3.executor": "Run",
     "애플리케이션.ClassStart5.executor": "Run",
-    "애플리케이션.Main.executor": "Run"
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.MovieReviewMain2.executor": "Run",
+    "애플리케이션.ProductOrderMain1.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class1.ex" />
       <recent name="class1" />
     </key>
   </component>
@@ -91,11 +98,20 @@
       <option name="project" value="LOCAL" />
       <updated>1743746150609</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="class">
+      <option name="closed" value="true" />
+      <created>1743752707786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743752707786</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first innit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first innit" />
+    <MESSAGE value="class" />
+    <option name="LAST_COMMIT_MESSAGE" value="class" />
   </component>
 </project>
