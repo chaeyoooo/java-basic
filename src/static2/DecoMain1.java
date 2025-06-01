@@ -1,12 +1,12 @@
 package static2;
 
+import static static2.DecoUtil2.deco;
+
 public class DecoMain1 {
     public static void main(String[] args) {
-        String s = "hello java";
-        DecoUtil1 decoUtil1 = new DecoUtil1();
-        String deco = decoUtil1.deco(s);
+        DecoUtil1 utils = new DecoUtil1();
+        String deco = utils.deco("hello java");
 
-        System.out.println("before : " + s);
-        System.out.println("after : " + deco);
+        System.out.println(deco);
     }
 }
